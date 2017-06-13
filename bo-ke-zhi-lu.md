@@ -155,6 +155,7 @@ $ git clone https://github.com/iissnan/hexo-theme-next themes/next
 theme: next
 language: en/zh-Hans
 title: Carden's Blog
+author: Carden
 avatar: http://upload-images.jianshu.io/upload_images/645301-f2f93c2f3f4319cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 ```
 
