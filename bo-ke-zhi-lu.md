@@ -84,8 +84,6 @@ Ctr+C关闭测试
 
 ![](/assets/屏幕快照 2017-06-13 下午4.16.33.png)
 
-
-
 2、 deploy到仓库\(第一次部署需要输入GitHub账号和密码\)
 
 ```
@@ -143,4 +141,35 @@ $ hexo deploy
 ```
 
 
+
+* # Theme
+
+1、clone
+
+```
+$ cd <floder>
+$ git clone https://github.com/iissnan/hexo-theme-next themes/next
+```
+
+2、修改\_config.yml
+
+```
+搜索 theme 字段，并将其值更改为 next 
+```
+
+3、验证
+
+```
+$ hexo s —debug
+```
+
+4、配置themes/next/\_config.yml，搜索Scheme
+
+```
+·	Muse - 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白
+·	Mist - Muse 的紧凑版本，整洁有序的单栏外观
+·	Pisces - 双栏 Scheme，小家碧玉似的清新
+```
+
+5、
 
