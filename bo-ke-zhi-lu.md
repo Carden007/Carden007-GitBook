@@ -173,5 +173,5 @@ $ hexo s —debug
 ·    Pisces - 双栏 Scheme，小家碧玉似的清新
 ```
 
-5、
+
 
