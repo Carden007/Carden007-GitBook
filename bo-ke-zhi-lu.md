@@ -1,3 +1,13 @@
+### 
+
+> # 博客之路
+
+---
+
+![](http://upload-images.jianshu.io/upload_images/1881355-511b93da3e3d303c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50)
+
+本来觉得写简书也挺好，但是看得太久，始终觉得还是自己造一个吧，毕竟自己造的博客主题偏好通通自己定，更加简约大方呀，最重要的是，反正又不要钱，哈哈！
+
 * ### Git
 
 ![](https://cl.ly/3n1p0I0Z1J12/201e5b6628576d77d356d017a61790e8_b.png)
