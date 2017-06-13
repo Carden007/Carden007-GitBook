@@ -8,34 +8,7 @@
 
 &lt;!-- more --&gt;
 
-## 培训班视频教程
-
-| 地址 | 简介 |
-| :--- | :--- |
-| [\*智iOS公开课](http://open.itcast.cn/ios/) | \*智iOS公开课 |
-| [\*智2016年基础班](http://yun.baidu.com/s/1pKYiLwJ) | \*智2016基础班 |
-| [\*智2013年基础班](http://pan.baidu.com/s/1pKLqjnt) | MJ授课 |
-| [\*智2013年就业班](http://pan.baidu.com/s/1eSnvZVk) | MJ授课 解压密码u1ku.taobao.com |
-| [\*智2015广州一期](http://yun.baidu.com/s/1mhdu1z6) | \*智2015广州就业班 |
-| [\*马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%2F) | 黑马程序员就业班 |
-| [\*马2014年5-8月](http://pan.baidu.com/s/1boJCKDD) | \*马程序员就业班 |
-| [小\*哥大神班1期](https://pan.baidu.com/s/1o8GpGy2) | MJ，swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5 |
-| [小\*哥大神班5期](https://yun.baidu.com/s/1slDzMWX) | 新增MVVM，Apple Pay |
-| 小\*哥大神班11期 | [第一部分](https://pan.baidu.com/s/1jIlVZBg)密码:diyq[第二部分](https://pan.baidu.com/s/1dE2eTSt)密码: a7fx 新增React Native项目 |
-| [小\*哥拓展班2期](https://pan.baidu.com/s/1nuCReid) | 码哥FM，直播，码哥课堂，汇编 |
-
-## 进阶教程
-
-| 地址 | 简介 |
-| :--- | :--- |
-| 斗鱼直播视频1.[下载地址](http://pan.baidu.com/s/1eSyifOe)2.[在线播放地址](http://reviewcode.cn/video.html) | QQ群\(叶孤城的iOS开发天地\)直播视频（群号：107888255），有仿写下厨房，Masonry，RAC，RunLoop，插件开发等高级内容 |
-| [WWDC官方视频](https://developer.apple.com/videos/) | 历年WWDC官方视频 |
-| [Developing-iOS-9-Apps-with-Swift](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift) | 斯坦福大学公开课，Swift版iOS9教程，字幕翻译 |
-| [Developing-iOS-8-Apps-with-Swift](https://github.com/SwiftGGTeam/Developing_iOS_8_Apps_With_Swift) | 斯坦福大学公开课，Swift版iOS8教程，字幕翻译 |
-| [iPhone开发教程2010年冬](http://open.163.com/special/opencourse/iphonekaifa.html) | 斯坦福大学公开课，Objective-C |
-| [iOS 7应用开发](http://open.163.com/special/opencourse/ios7.html) | 斯坦福大学公开课，iOS7，Objective-C |
-
-## 推荐博客、微博或Github
+## 博客、微博或Github
 
 | 地址 | 简介 |
 | :--- | :--- |
@@ -128,6 +101,35 @@
 | [skill-map](https://github.com/TeamStuQ/skill-map) | IT技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱 |
 | [全球移动技术大会2016](http://ppt.geekbang.org/gmtc?amp;isappinstalled=0&amp;amp;amp;amp;from=groupmessage&amp;amp;amp;from=groupmessage&amp;amp;from=timeline&amp;amp;isappinstalled=0&amp;from=timeline&amp;isappinstalled=0&from=timeline&isappinstalled=0&from=timeline&from=timeline&isappinstalled=0) | 全球移动技术大会2016PPT下载合集 |
 | [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) | 2016中国Swift开发者大会源文件，包括keynote, pdf 和源工程文件 |
+
+
+
+## 培训班视频教程
+
+| 地址 | 简介 |
+| :--- | :--- |
+| [\*智iOS公开课](http://open.itcast.cn/ios/) | \*智iOS公开课 |
+| [\*智2016年基础班](http://yun.baidu.com/s/1pKYiLwJ) | \*智2016基础班 |
+| [\*智2013年基础班](http://pan.baidu.com/s/1pKLqjnt) | MJ授课 |
+| [\*智2013年就业班](http://pan.baidu.com/s/1eSnvZVk) | MJ授课 解压密码u1ku.taobao.com |
+| [\*智2015广州一期](http://yun.baidu.com/s/1mhdu1z6) | \*智2015广州就业班 |
+| [\*马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%2F) | 黑马程序员就业班 |
+| [\*马2014年5-8月](http://pan.baidu.com/s/1boJCKDD) | \*马程序员就业班 |
+| [小\*哥大神班1期](https://pan.baidu.com/s/1o8GpGy2) | MJ，swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5 |
+| [小\*哥大神班5期](https://yun.baidu.com/s/1slDzMWX) | 新增MVVM，Apple Pay |
+| 小\*哥大神班11期 | [第一部分](https://pan.baidu.com/s/1jIlVZBg)密码:diyq[第二部分](https://pan.baidu.com/s/1dE2eTSt)密码: a7fx 新增React Native项目 |
+| [小\*哥拓展班2期](https://pan.baidu.com/s/1nuCReid) | 码哥FM，直播，码哥课堂，汇编 |
+
+## 进阶教程
+
+| 地址 | 简介 |
+| :--- | :--- |
+| 斗鱼直播视频1.[下载地址](http://pan.baidu.com/s/1eSyifOe)2.[在线播放地址](http://reviewcode.cn/video.html) | QQ群\(叶孤城的iOS开发天地\)直播视频（群号：107888255），有仿写下厨房，Masonry，RAC，RunLoop，插件开发等高级内容 |
+| [WWDC官方视频](https://developer.apple.com/videos/) | 历年WWDC官方视频 |
+| [Developing-iOS-9-Apps-with-Swift](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift) | 斯坦福大学公开课，Swift版iOS9教程，字幕翻译 |
+| [Developing-iOS-8-Apps-with-Swift](https://github.com/SwiftGGTeam/Developing_iOS_8_Apps_With_Swift) | 斯坦福大学公开课，Swift版iOS8教程，字幕翻译 |
+| [iPhone开发教程2010年冬](http://open.163.com/special/opencourse/iphonekaifa.html) | 斯坦福大学公开课，Objective-C |
+| [iOS 7应用开发](http://open.163.com/special/opencourse/ios7.html) | 斯坦福大学公开课，iOS7，Objective-C |
 
 
 
