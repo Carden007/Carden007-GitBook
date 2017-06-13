@@ -140,8 +140,6 @@ $ hexo generate
 $ hexo deploy
 ```
 
-
-
 * # Theme
 
 1、clone
@@ -154,8 +152,30 @@ $ git clone https://github.com/iissnan/hexo-theme-next themes/next
 2、修改\_config.yml
 
 ```
-搜索 theme 字段，并将其值更改为 next 
+theme: next
+language: en/zh-Hans
+title: Carden's Blog
+avatar: https://static.pexels.com/photos/33392/portrait-bird-nature-wild.jpg
 ```
+
+|  |
+| :--- |
+
+
+| 语言 | 代码 | 设定示例 |
+| :--- | :--- | :--- |
+| English | en | language: en |
+| 简体中文 | zh-Hans | language:  |
+| Français | fr-FR | language: fr-FR |
+| Português | pt | language: pt |
+| 繁體中文 | zh-hk 或者 zh-tw | language: zh-hk |
+| Русский язык | ru | language: ru |
+| Deutsch | de | language: de |
+| 日本語 | ja | language: ja |
+| ndonesian | id | language: id |
+
+  
+
 
 3、验证
 
@@ -166,9 +186,9 @@ $ hexo s —debug
 4、配置themes/next/\_config.yml，搜索Scheme
 
 ```
-·	Muse - 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白
-·	Mist - Muse 的紧凑版本，整洁有序的单栏外观
-·	Pisces - 双栏 Scheme，小家碧玉似的清新
+·    Muse - 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白
+·    Mist - Muse 的紧凑版本，整洁有序的单栏外观
+·    Pisces - 双栏 Scheme，小家碧玉似的清新
 ```
 
 5、
