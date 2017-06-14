@@ -5,4 +5,5 @@
 * [3.学习之门](xue-xi-zhi-men.md)
 * [4.博客之路](bo-ke-zhi-lu.md)
 * [5.基础巩固](5ji-chu-gong-gu.md)
+* [6.曾经自己](6ceng-jing-zi-ji.md)
 
