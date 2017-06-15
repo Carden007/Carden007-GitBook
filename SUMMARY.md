@@ -7,4 +7,5 @@
 * [5.基础巩固](5ji-chu-gong-gu.md)
 * [6.曾经自己](6ceng-jing-zi-ji.md)
 * [7.美国故事](7mei-guo-gu-shi.md)
+* [8.格物致知](8ge-wu-zhi-zhi.md)
 
