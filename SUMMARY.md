@@ -6,4 +6,5 @@
 * [4.博客之路](bo-ke-zhi-lu.md)
 * [5.基础巩固](5ji-chu-gong-gu.md)
 * [6.曾经自己](6ceng-jing-zi-ji.md)
+* [7.美国故事](7mei-guo-gu-shi.md)
 
